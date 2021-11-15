@@ -52,7 +52,7 @@ to read/write html
 ```
 ### Optional - to read/write hdf5 (read_hdf)
 ```
-conda install -c anaconda pytables
+(pytutorial) conda install -c anaconda pytables
 ```
 ### Start jupyter notebook
 ```
