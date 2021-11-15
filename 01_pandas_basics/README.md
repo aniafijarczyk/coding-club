@@ -11,7 +11,7 @@ python libraries:
 to read/write xlsx files
 - openpyxl
 
-to read/write from html
+to read/write html
 - lxml
 - html5lib
 - BeautifulSoup4
