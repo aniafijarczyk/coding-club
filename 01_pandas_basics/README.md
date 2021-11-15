@@ -3,11 +3,14 @@
 
 ## Requirements:
 - python and jupyter notebook (easiest way to install is with Anaconda)
+
 python libraries:
 - pandas
 - numpy
+
 to read/write xlsx files
 - openpyxl
+
 to read/write from html
 - lxml
 - html5lib
